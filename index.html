@@ -15,13 +15,23 @@
 </head>
 <body>
     <div class="container">
-        <h1>Ping-Pong</h1>
+        <div class="head">
+        <h1><b>Ping-Pong</b></h1>
+        </div>
         <form id="ping-pong">
             <div class="form-group">
+                <h1><b>Let's play!</b></h1>
+                <p><b>Rules:</b></p>
+                <p>Ping Pong will count up to your number from 1 with the following exceptions</p>
+                <ol>
+                    <li>Number divisible by 3 become "ping"</li>
+                    <li>Numbers divisible by 5 become "pong"</li>
+                    <li>Numbers divisible by 3 and 5 become "pingpong"</li>
+                </ol>
                 <label for="number">Enter your number here:</label>
                 <input id="number" type="text">
-            </div>
             <button type="submit" class="btn">Ping Pong</button>
+            </div>
         </form>
         <div id="result">
 
