@@ -4,5 +4,8 @@ $(document).ready(function() {
         var number = parseInt($("input#number").val());
         var result = pingpong(number);
         $("#result").text(result);
-    })
-})
+        var pingpong =function(number) {
+            return ping;
+        };
+    });
+});
