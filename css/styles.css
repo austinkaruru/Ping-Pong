@@ -3,5 +3,11 @@
     background-color: orange;
 }
 .form-group {
-    background-color: rgb(236, 28, 56);
+    background-color: black;
+    color: white;
+}
+.sidebar {
+    float: left;
+    background-color: brown;
+    color: white;
 }
