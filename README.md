@@ -9,6 +9,6 @@
 ## Deployment 
 #### To deploy the project on a live site, open the project's directory through the terminal, create a new branch known as "gh-pages". Then git add so as to have the files tracked by git, commit any changes then push to github on gh-pages branch. Then to access the live site go to username.github.io/projectname/ .  
 ### Check out <a href="austinkaruru.github.io/Ping-Pong/"> Ping-Pong </a>
-### MIT <a href="https://github.com/austinkaruru/Ping-Pong/blob/master/LICENSE"> License </a> (c) 2018 austinkaruru
+### MIT Copyright <a href="https://github.com/austinkaruru/Ping-Pong/blob/master/LICENSE"> License </a> (c) 2018 austinkaruru
 
 ### 
