@@ -6,9 +6,11 @@
 }
 .form-group {
     color:white;
+    background-color: black;
 }
 .credits {
     color:white;
+    background-color: grey;
 }
 body {
     margin: 0%;
