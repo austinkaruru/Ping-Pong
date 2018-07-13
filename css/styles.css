@@ -1,20 +1,23 @@
 .head {
     text-align: center;
     width: 100%;
-    color: white;
+    color:white;
     
 }
 .form-group {
-    color: white;
+    color:white;
 }
 .credits {
-    color: white;
+    color:white;
 }
 body {
     margin: 0%;
-    background-image: url("../image/download.jpeg")
+    background-image: url("../image/music.jpg")
 }
 #result {
     text-align: centre;
+    color: white;
+}
+#list-items {
     color: white;
 }
