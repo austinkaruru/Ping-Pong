@@ -6,11 +6,17 @@
 }
 .form-group {
     color:white;
+<<<<<<< HEAD
     background-color: black;
 }
 .credits {
     color:white;
     background-color: grey;
+=======
+}
+.credits {
+    color:white;
+>>>>>>> master
 }
 body {
     margin: 0%;
