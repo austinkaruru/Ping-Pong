@@ -21,6 +21,7 @@ $(document).ready(function() {
             else {
                 return number;
             }
+            $("#list-items").append("<li>"+ number + "</li>")
         };
                     
             

@@ -1,17 +1,16 @@
 .head {
     text-align: center;
-    background-color: orange;
     width: 100%;
+    color: white;
     
 }
 .form-group {
-    background-color: black;
     color: white;
 }
 .credits {
-    background-color: brown;
     color: white;
 }
 body {
     margin: 0%;
+    background-image: url("../image/download.jpeg")
 }
