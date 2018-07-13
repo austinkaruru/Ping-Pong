@@ -1,13 +1,17 @@
 .head {
     text-align: center;
     background-color: orange;
+    width: 100%;
+    
 }
 .form-group {
     background-color: black;
     color: white;
 }
-.sidebar {
-    float: left;
+.credits {
     background-color: brown;
     color: white;
+}
+body {
+    margin: 0%;
 }
